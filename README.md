@@ -1,8 +1,10 @@
 <h1 align="center">Periodic Table of Elements</h1>
 
+
 The "Periodic Table of Elements" GitHub project is a comprehensive resource that features D. Mendeleev's periodic table of chemical elements. This table is a visual representation of the known chemical elements, which is organized according to their physical and chemical properties with an exhaustive legend.
 
-> **Note** : The source of the initial code is [here](https://texample.net/tikz/examples/periodic-table-of-chemical-elements).
+> [!NOTE]  
+> The source of the initial code is [here](https://texample.net/tikz/examples/periodic-table-of-chemical-elements).
 
 <p align="center">
   <img src="https://github.com/Corentin-Lcs/periodic-table-of-elements/blob/main/Periodic_Table.jpg" alt="Periodic_Table.jpg"/>
